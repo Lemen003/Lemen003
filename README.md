@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lemen003
 - 👀 I’m interested in anime, k-pop, food, art
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me taylorrenee456@gmail.com
 
 <!---
